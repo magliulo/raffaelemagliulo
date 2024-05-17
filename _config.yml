@@ -21,7 +21,7 @@ repository               : "magliulo/raffaelemagliulo"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://drive.google.com/file/d/11NgzKOp4nMOvoRl8qeZAhUDvczXSN44q/view?usp=drive_link"
   name             : "Raffaele Magliulo"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
