@@ -21,12 +21,12 @@ repository               : "magliulo/raffaelemagliulo"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://drive.google.com/file/d/11NgzKOp4nMOvoRl8qeZAhUDvczXSN44q/view?usp=drive_link"
+  avatar           : "Pic_col.jpg"
   name             : "Raffaele Magliulo"
   pronouns         : # example: "she/her"  
   bio              : "Short biography fsidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Naples, Italy"
+  employer         : "University of Naples _Federico II_"
   uri              : # URL
   email            : "raffaele.magliulo@unina.it" 
 
