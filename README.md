@@ -1,4 +1,4 @@
 
 # Raffaele Magliulo
 
-![personal-website](https://magliulo.github.io/raffaelemagliulo/)
+[Link to the YouTube video for website customization](https://magliulo.github.io/raffaelemagliulo/)
