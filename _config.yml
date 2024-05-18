@@ -24,9 +24,9 @@ author:
   avatar           : "Pic_col.jpg"
   name             : "Raffaele Magliulo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography fsidebar"
+  bio              : "PhD Student in Food Science"
   location         : "Naples, Italy"
-  employer         : "University of Naples _Federico II_"
+  employer         : "University of Naples Federico II"
   uri              : # URL
   email            : "raffaele.magliulo@unina.it" 
 
@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "raffae.magliulo"
+  instagram        : # Username
   lastfm           : # Username
   linkedin         : "raffaele-magliulo/"
   mastodon         : # URL
