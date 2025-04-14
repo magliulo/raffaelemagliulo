@@ -37,9 +37,9 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0002-1908-6505"
   semantic         : # URL
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Magliulo%2C+Raffaele"
+  pubmed           : ""
   researchgate     : "https://www.researchgate.net/profile/Raffaele-Magliulo?ev=hdr_xprf"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=58899641900"
+  scopus           : ""
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
