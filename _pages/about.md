@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Ph.D. student** at the **University of Naples Federico II (UniNA)**, [Department of Agricultural Sciences](https://www.agraria.unina.it/), Italy.  
+I am a **Ph.D. student** at the **University of Naples Federico II (UniNA)**, [Department of Agricultural Sciences](https://www.agraria.unina.it/), Italy.
+
 My research focuses on characterising the microbiome of fermented foods and exploring its impact on human health, particularly within the framework of the **fermented foods–gut–brain axis**. I employ **shotgun metagenomics** and **machine learning** methodologies to delve into these complex interactions.
 
 In addition to my primary research, I am involved in **multi-omic projects** that integrate microbiome data with **volatilomic** and **metaproteomic** analyses. These interdisciplinary approaches aim to deepen our understanding of the microbial ecology inherent in fermented foods.
