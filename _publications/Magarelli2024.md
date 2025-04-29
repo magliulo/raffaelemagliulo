@@ -2,7 +2,7 @@
 title: "Explainable artificial intelligence and microbiome data for food geographical origin: the Mozzarella di Bufala Campana PDO Case of Study"
 collection: publications
 category: manuscripts
-permalink: /publication/magarelli2024
+permalink: /publication/Magarelli2024
 excerpt: "Application of explainable AI to cheese microbiome data achieves high‐accuracy classification of PDO Mozzarella di Bufala Campana origin."
 date: 2024-06-03
 venue: "Frontiers in Microbiology"
