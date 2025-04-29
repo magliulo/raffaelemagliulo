@@ -21,6 +21,7 @@ Throughout my academic journey, I have gained experience with **open-source comp
 
 During my M.Sc. in **Agri-Environmental and Food Biotechnologies** at UniNA, I completed traineeships in **bioinformatics** at [Genomix4Life](https://www.genomix4life.com/) and in **plant genomics** at UniNA.  
 Prior to this, I earned a B.Sc. in **Agri-Environmental and Forestry Sciences** from UniNA.
+
 ---
 
 [raffaele.magliulo@unina.it](mailto:raffaele.magliulo@unina.it)
