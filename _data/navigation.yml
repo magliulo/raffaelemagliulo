@@ -14,8 +14,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-#  - title: "Cheese microbiome catalogue"
-#    url: /files/s_Table.html
+  - title: "Cheese microbiome catalogue"
+    url: /files/s_Table.html
     
 #  - title: "Teaching"
 #    url: /teaching/    
