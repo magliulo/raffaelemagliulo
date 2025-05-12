@@ -8,9 +8,9 @@ date: 2024-07-01
 location: "Burgos, Spain"
 ---
 <div align="center">
-  ![1st prize as Poster Communication](/files/FoodMicro2024_1.jpg)
+  ![1st prize as Poster Communication](/images/FoodMicro2024_1.jpg)
 </div>
 
 <div align="center">
-  ![Very humbled :)](/files/FoodMicro2024_3.jpg)
+  ![Very humbled :)](/images/FoodMicro2024_3.jpg)
 </div>
