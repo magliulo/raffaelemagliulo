@@ -7,10 +7,6 @@ venue: "University of Burgos, Spain"
 date: 2024-07-01
 location: "Burgos, Spain"
 ---
-<div align="center">
-  ![1st prize as Poster Communication](/images/FoodMicro2024_1.jpg)
-</div>
-
-<div align="center">
-  ![Very humbled :)](/images/FoodMicro2024_3.jpg)
-</div>
+1st prize as Poster Communication
+<br/><img src='/images/FoodMicro2024_1'>
+<br/><img src='/images/FoodMicro2024_3'>
