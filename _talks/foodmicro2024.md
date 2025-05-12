@@ -8,5 +8,5 @@ date: 2024-07-01
 location: "Burgos, Spain"
 ---
 1st prize as Poster Communication
-<br/><img src='/images/FoodMicro2024_1'>
-<br/><img src='/images/FoodMicro2024_3'>
+<br/><img src='/files/FoodMicro2024_1'>
+<br/><img src='/files/FoodMicro2024_3'>
