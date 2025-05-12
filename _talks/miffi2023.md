@@ -7,4 +7,3 @@ venue: "University of Copenhagen, Denmark"
 date: 2023-04-01
 location: "Copenhagen, Denmark"
 ---
-Presented findings on the shotgun‐metagenomics characterisation of fermented‐food microbiomes at MiFFI2023.
