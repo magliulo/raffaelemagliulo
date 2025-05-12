@@ -7,4 +7,3 @@ venue: "University of Copenhagen, Denmark"
 date: 2025-04-01
 location: "Copenhagen, Denmark"
 ---
-I presented our recent findings on fermented‐food microbiomes at MiFFI2025, focusing on shotgun‐metagenomics pipelines and multi‐omic integrations for dairy products.
