@@ -7,4 +7,3 @@ venue: "University of Catania, Italy"
 date: 2024-09-01
 location: "Catania, Italy"
 ---
-I displayed a poster on the microbiome dynamics of traditional fermented foods at the 28th Italian PhD‐Food Biotech Workshop.
