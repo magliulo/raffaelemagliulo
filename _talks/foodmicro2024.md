@@ -7,4 +7,3 @@ venue: "University of Burgos, Spain"
 date: 2024-07-01
 location: "Burgos, Spain"
 ---
-Presented a poster on regional microbiome signatures in PDO cheeses, highlighting links between microbial terroir and flavor profiles.
