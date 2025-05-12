@@ -7,4 +7,3 @@ venue: "University of Palermo, Italy"
 date: 2024-05-01
 location: "Palermo, Italy"
 ---
-Displayed preliminary data on volatilomic-metagenomic integration for characterizing fermented‐food microbiomes.
