@@ -7,4 +7,3 @@ venue: "University of Naples Federico II, Italy"
 date: 2023-09-01
 location: "Naples, Italy"
 ---
-Displayed a poster on our multi‐omic pipeline for fermented‐food microbiome analysis in the 27th Italian PhD‐Food Biotech Workshop.
