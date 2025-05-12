@@ -7,4 +7,3 @@ venue: "Embassy of Italy in Vietnam"
 date: 2023-11-01
 location: "Hanoi, Vietnam"
 ---
-Participated in a roundtable on fermented‐food consumption and public health, sharing insights from our shotgun‐metagenomics studies.
