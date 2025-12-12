@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,37 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
+Current positions
+======
+* Since 2023 | Ph.D. student in Food Science 
+  * Department of Agricultural Sciences, University of Naples Federico II
+
+* Since 2021 | Academic tutor
+  * Department of Agricultural Sciences, University of Naples Federico II
+
+Past positions
+======
+* 2022 | Trainee in bioinformatics
+  * Genomix4Life S.r.l.
+
+* 2021 | Trainee in plant genomics
+  * Department of Agricultural Sciences, University of Naples Federico II
+
+* 2020 | Assistant to the university manager
+  * Department of Agricultural Sciences, University of Naples Federico II
+
+Research visits
+======
+* 2024-2025 | Ph.D. visiting student
+  * Teagasc Food Research Centre, Moorepark, Co. Cork, Ireland
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D candidate in Food Science, Department of Agricultural Sciences, University of Naples Federico II, 2026 (expected)
+* M.Sc. in Agri-Environmental and Food Biotechnologies, Department of Agricultural Sciences, University of Naples Federico II, 2022
+* B.Sc. in Agricultural, Forestry and Environmental Sciences, Department of Agricultural Sciences, University of Naples Federico II, 2022
 
 Publications
 ======
@@ -59,6 +57,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
