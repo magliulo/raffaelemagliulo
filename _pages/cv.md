@@ -11,26 +11,26 @@ redirect_from:
 
 Current positions
 ======
-* Since 2023 | Ph.D. student in Food Science 
+* Since 2023: Ph.D. student in Food Science 
   * Department of Agricultural Sciences, University of Naples Federico II
 
-* Since 2021 | Academic tutor
+* Since 2021: Academic tutor
   * Department of Agricultural Sciences, University of Naples Federico II
 
 Past positions
 ======
-* 2022 | Trainee in bioinformatics
+* 2022: Trainee in bioinformatics
   * Genomix4Life S.r.l.
 
-* 2021 | Trainee in plant genomics
+* 2021: Trainee in plant genomics
   * Department of Agricultural Sciences, University of Naples Federico II
 
-* 2020 | Assistant to the university manager
+* 2020: Assistant to the university manager
   * Department of Agricultural Sciences, University of Naples Federico II
 
 Research visits
 ======
-* 2024-2025 | Ph.D. visiting student
+* 2024-2025: Ph.D. visiting student
   * Teagasc Food Research Centre, Moorepark, Co. Cork, Ireland
 
 Education
