@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Ph.D. candidate** with 3+ years of experience within the **fermented foods–gut–human health axis** at the **University of Naples Federico II (UniNA)**, [Department of Agricultural Sciences](https://www.agraria.unina.it/), Italy. The research focus of my activities is set on characterising fermented foods microbiome and its impact on the human gut through **shotgun metagenomics**, **multi–omics** integration, and **explainable machine learning** methods, to profile **microbial functional potential** able to ameliorate human health. During my doctoral project, I have also experienced **project–management** tasks such as planning, delivery, and reporting of scientific research projects.
+**Ph.D. candidate** with 3+ years of experience within the **fermented foods–gut–human health axis** at the **University of Naples Federico II (UniNA)**, [Department of Agricultural Sciences](https://www.agraria.unina.it/), Italy. The research focus of my activities is set on characterising fermented foods microbiome and its impact on the human gut through **shotgun metagenomics**, **multi–omics** integration, **machine learning**, and **explainable artificial intelligence** methods, to profile **microbial functional potential** able to ameliorate human health. During my doctoral project, I have also experienced **project–management** tasks such as planning, delivery, and reporting of scientific research projects.
 
 During my Ph.D., I undertook a research period abroad at the [Teagasc Food Research Centre](https://www.teagasc.ie/contact/offices/moorepark-teagasc-food-research-centre/), Moorepark, Fermoy, Ireland.
 
