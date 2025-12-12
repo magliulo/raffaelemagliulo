@@ -17,8 +17,8 @@ main:
 #- title: "Cheese microbiome catalogue"
   #url: /files/1_2_s_Table.html
     
-#  - title: "Teaching"
-#    url: /teaching/    
+- title: "Teaching"
+  url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
