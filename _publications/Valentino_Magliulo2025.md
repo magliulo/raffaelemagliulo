@@ -7,7 +7,7 @@ excerpt: ""
 date: 2025-08-27
 venue: "npj Biofilms and Microbiomes"
 paperurl: "https://doi.org/10.1038/s41522-025-00815-6"
-citation: "Magarelli, M., Novielli, P., De Filippis, F., Magliulo, R., Di Bitonto, P., Diacono, D., Bellotti, R., & Tangaro, S. (2024). Explainable artificial intelligence and microbiome data for food geographical origin: the Mozzarella di Bufala Campana PDO Case of Study. Frontiers in Microbiology, 15, 1393243."
+citation: "Valentino, V., Magliulo, R., Balivo, A., Krysmann, A. M., Calvanese, C. M., Esposito, A., ... & De Filippis, F. (2025). Microbiome profiling of Grana Padano and Parmigiano Reggiano cheeses reveals cheese-specific biomarkers, psychobiotic potential, and bioprotective activities. npj Biofilms and Microbiomes, 11(1), 177."
 ---
 
 **Abstract**
