@@ -8,29 +8,21 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+- title: "Raffaele Magliulo"
+  url: /
+  
 - title: "Publications"
   url: /publications/
 
 - title: "Talks"
   url: /talks/    
 
-#- title: "Cheese microbiome catalogue"
+#- title: "MetaCuRD"
   #url: /files/1_2_s_Table.html
     
 - title: "Teaching"
   url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
+  
 - title: "CV"
   url: /cv/
-    
-# - title: "CV"
-#   url: /cv-json/
-    
-#  - title: "Guide"
-#    url: /markdown/
+  
