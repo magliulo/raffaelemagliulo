@@ -1,9 +1,9 @@
 ---
-title: "Poster communication, 27th Workshop on the Developments in the Italian Ph.D. Research on Food Science Technology and Biotechnology"
+title: "Exploiting fermented foods microbiome to improve food quality and human health"
 collection: talks
 type: "Poster"
 permalink: /talks/portici2023/
-venue: "University of Naples Federico II, Italy"
-date: 2023-09-01
-location: "Naples, Italy"
+venue: "University of Naples Federico II"
+date: 2023-09-13
+location: "Portici (Naples), Italy"
 ---
