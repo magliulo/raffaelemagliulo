@@ -1,9 +1,9 @@
 ---
-title: "Poster communication, 28th Workshop on the Developments in the Italian Ph.D. Research on Food Science Technology and Biotechnology"
+title: "The neuroactive potential of Grana Padano and Parmigiano Reggiano cheese microbiome"
 collection: talks
 type: "Poster"
 permalink: /talks/catania2024/
 venue: "University of Catania, Italy"
-date: 2024-09-01
+date: 2024-09-18
 location: "Catania, Italy"
 ---
