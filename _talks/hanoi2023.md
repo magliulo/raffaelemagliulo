@@ -1,5 +1,5 @@
 ---
-title: "Attendance, International meeting “What do we know about the fermented food we eat every day?”"
+title: "International meeting “What do we know about the fermented food we eat every day?”"
 collection: talks
 type: "Attendance"
 permalink: /talks/hanoi2023/
