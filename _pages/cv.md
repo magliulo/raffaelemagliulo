@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Current positions
-======
+## Current positions
+
 * Since 2023: Ph.D. student in Food Science 
   * Department of Agricultural Sciences, University of Naples Federico II
 
