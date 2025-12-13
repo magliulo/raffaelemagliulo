@@ -1,5 +1,5 @@
 ---
-title: "Salt Stress Mitigation and Field-Relevant Biostimulant Activity of Prosystemin Protein Fragments: Novel Tools for Cutting-Edge Solutions in Agriculture"
+title: "Salt stress mitigation and field-relevant biostimulant activity of prosystemin protein fragments: novel tools for cutting-edge solutions in agriculture"
 collection: publications
 category: manuscripts
 permalink: /publication/Criscuolo2025
