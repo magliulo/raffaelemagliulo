@@ -6,7 +6,7 @@ permalink: /publication/Criscuolo2025
 excerpt: ""
 date: 2025-08-04
 venue: "Plants"
-paperurl: "https://doi.org/10.3389/fmicb.2024.1393243"
+paperurl: "https://doi.org/10.3390/plants14152411"
 citation: "Criscuolo, M. C., Magliulo, R., Castaldi, V., Cirillo, V., Cristiani, C., Negroni, A., ... & Rao, R. (2025). Salt Stress Mitigation and Field-Relevant Biostimulant Activity of Prosystemin Protein Fragments: Novel Tools for Cutting-Edge Solutions in Agriculture. Plants, 14(15), 2411."
 ---
 
