@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "About me"
+title                    : "Raffaele Magliulo"
 title_separator          : "-"
 name                     : &name "Raffaele Magliulo"
 description              : &description ""
@@ -80,7 +80,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Publications'    
   conferences:
     title: 'Conference Papers'
 
