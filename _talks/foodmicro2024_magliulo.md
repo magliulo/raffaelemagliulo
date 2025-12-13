@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/foodmicro2024_magliulo/
 venue: "University of Burgos"
-date: 2024-07-01
+date: 2024-07-10
 location: "Burgos, Spain"
 ---
 **Abstract**: Grana Padano (GP) and Parmigiano Reggiano (PR) are among the finest Italian traditional Protected Designation of Origin (PDO) ripened cheeses.
