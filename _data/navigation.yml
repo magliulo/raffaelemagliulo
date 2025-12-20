@@ -13,9 +13,6 @@ main:
 
 - title: "Talks"
   url: /talks/    
-
-- title: "MetaCheeseDB"
-  url: /files/MetaCheeseDB.html
     
 - title: "Teaching"
   url: /teaching/    
@@ -23,3 +20,5 @@ main:
 - title: "CV"
   url: /cv/
   
+- title: "MetaCheeseDB"
+  url: /files/MetaCheeseDB.html
