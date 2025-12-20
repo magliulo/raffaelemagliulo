@@ -14,8 +14,8 @@ main:
 - title: "Talks"
   url: /talks/    
 
-#- title: "MetaCuRD"
-  #url: /files/1_2_s_Table.html
+- title: "MetaCheeseDB"
+  url: /files/MetaCheeseDB.html
     
 - title: "Teaching"
   url: /teaching/    
