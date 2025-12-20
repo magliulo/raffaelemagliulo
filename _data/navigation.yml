@@ -20,5 +20,5 @@ main:
 - title: "CV"
   url: /cv/
   
-- title: "MetaCheeseDB"
-  url: /files/MetaCheeseDB.html
+#- title: "MetaCheeseDB"
+  #url: /files/MetaCheeseDB.html
