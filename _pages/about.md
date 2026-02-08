@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-**Ph.D. candidate** with 3+ years of experience within the **fermented foods–gut–human health axis** at the **University of Naples Federico II (UniNA)**, [Department of Agricultural Sciences](https://www.agraria.unina.it/), Italy. The research focus of my activities is set on characterising fermented foods microbiome and its impact on the human gut through **shotgun metagenomics**, **multiomics** integration, **machine learning**, and **explainable artificial intelligence** methods, to profile **microbial functional potential** able to ameliorate human health. During my doctoral project, I have also experienced **project–management** tasks such as planning, delivery, and reporting of scientific research projects.
+**Research Officer** with 3+ years of experience within the **fermented foods–gut–human health axis** at the Department of Food Biosciences, [**Moorepark Teagasc Food Research Centre**](https://teagasc.ie/office/moorepark-teagasc-food-research-centre/), Ireland. The research focus of my activities is set on characterising fermented foods and its impact on the animal and human gut through **shotgun metagenomics**, **multiomics** integration, **machine learning**, and **explainable artificial intelligence** methods, to profile **microbial functional potential** able to provide health benefits.
+
+During my PhD, I developed [**MetaCheeseDB**](https://magliulo.github.io/metacheesedb/), a comprehensive cheese metagenome catalogue built from shotgun metagenomic data. This resource enables the exploration of cheese microbial diversity across products and production areas and supports the identification of **potential microbial markers of origin, quality, and traceability**. MetaCheeseDB represents one of the main outputs of my doctoral research and reflects my interest in building open, reusable resources for the scientific community.
+
+During my doctoral project, I have also experienced **project–management** tasks such as planning, delivery, and reporting of scientific research projects.
 
 During my Ph.D., I spent a research period abroad at the [Teagasc Food Research Centre](https://www.teagasc.ie/contact/offices/moorepark-teagasc-food-research-centre/), Moorepark, Fermoy, Ireland.
 
