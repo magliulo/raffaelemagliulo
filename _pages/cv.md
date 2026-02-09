@@ -10,15 +10,17 @@ redirect_from:
 {% include base_path %}
 
 ## Current positions
-
-* Since 2023: **Ph.D. student in Food Science** 
-  * Department of Agricultural Sciences, University of Naples Federico II
-
-* Since 2021: **Academic tutor**
-  * Department of Agricultural Sciences, University of Naples Federico II
+* Since 2026: **Research Officer** 
+  * Department of Food Biosciences, Moorepark Teagasc Food Research Centre
 
 
 ## Past positions
+
+* 2023-2026: **Ph.D. candidate in Food Science** 
+  * Department of Agricultural Sciences, University of Naples Federico II
+
+* 2021-2026: **Academic tutor**
+  * Department of Agricultural Sciences, University of Naples Federico II
 
 * 2022: **Trainee in bioinformatics**
   * Genomix4Life S.r.l.
@@ -64,4 +66,3 @@ redirect_from:
   {% endfor %}</ul>
 
 ---
-Send me an [e-mail](mailto:raffae.magliulo@gmail.com) if you may be interested at the full CV.
