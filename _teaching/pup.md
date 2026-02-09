@@ -8,4 +8,8 @@ date: 2021-01-01
 location: "Naples, Italy"
 ---
 
-Since 2021, as academic tutor supporting the plant genetics course with additional lectures for the B.Sc. students in Mediterranean Gastronomical Sciences
+
+2021-2025, as academic tutor supporting the plant genetics course with additional lectures for the B.Sc. students in Mediterranean Gastronomical Sciences
+
+
+---
