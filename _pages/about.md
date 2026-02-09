@@ -21,4 +21,4 @@ During my M.Sc. in **Agri-Environmental and Food Biotechnologies** at UniNA, I c
 Prior to this, I earned a B.Sc. in **Agri-Environmental and Forestry Sciences** from UniNA.
 
 ---
-[raffae.magliulo@gmail.com](mailto:raffae.magliulo@gmail.com)
+[raffaele.magliulo@teagasc.ie](mailto:raffaele.magliulo@teagasc.ie) // [raffae.magliulo@gmail.com](mailto:raffae.magliulo@gmail.com)
