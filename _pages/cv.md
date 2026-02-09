@@ -19,8 +19,8 @@ redirect_from:
 * 2023-2026: **Ph.D. candidate in Food Science** 
   * Department of Agricultural Sciences, University of Naples Federico II
 
-* 2021-2026: **Academic tutor**
-  * Department of Agricultural Sciences, University of Naples Federico II
+* 2021-2025: **Academic tutor**
+  * Penitentiary University Pole, University of Naples Federico II
 
 * 2022: **Trainee in bioinformatics**
   * Genomix4Life S.r.l.
