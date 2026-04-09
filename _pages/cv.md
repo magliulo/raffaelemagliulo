@@ -42,7 +42,7 @@ redirect_from:
 
 * **Ph.D candidate in Food Science**, Department of Agricultural Sciences, University of Naples Federico II, 2026 (expected)
 * **M.Sc. in Agri-Environmental and Food Biotechnologies**, Department of Agricultural Sciences, University of Naples Federico II, 2022
-* **B.Sc. in Agricultural, Forestry and Environmental Sciences**, Department of Agricultural Sciences, University of Naples Federico II, 2022
+* **B.Sc. in Agricultural, Forestry and Environmental Sciences**, Department of Agricultural Sciences, University of Naples Federico II, 2020
 
 
 ## Publications
