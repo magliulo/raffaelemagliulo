@@ -16,7 +16,7 @@ redirect_from:
 
 ## Past positions
 
-* 2023-2026: **Ph.D. candidate in Food Science** 
+* 2023-2026: **Ph.D. in Food Science** 
   * Department of Agricultural Sciences, University of Naples Federico II
 
 * 2021-2025: **Academic tutor**
@@ -40,7 +40,7 @@ redirect_from:
 
 ## Education
 
-* **Ph.D candidate in Food Science**, Department of Agricultural Sciences, University of Naples Federico II, 2026 (expected)
+* **Ph.D. in Food Science**, Department of Agricultural Sciences, University of Naples Federico II, 2026
 * **M.Sc. in Agri-Environmental and Food Biotechnologies**, Department of Agricultural Sciences, University of Naples Federico II, 2022
 * **B.Sc. in Agricultural, Forestry and Environmental Sciences**, Department of Agricultural Sciences, University of Naples Federico II, 2020
 
