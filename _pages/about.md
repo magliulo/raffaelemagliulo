@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 > Inside me, microorganisms that don’t realize they belong to my body are living the very same life I am...
+> 
 > Which body do I belong to?
+> 
 > –Battiato, 1972
 
 Raffaele Magliulo is a **Research Officer** at [Moorepark Teagasc Food Research Centre](https://teagasc.ie/office/moorepark-teagasc-food-research-centre/). His research focuses on characterising the **fermented foods microbiome** and its impact on **gut and human health**, using **shotgun metagenomics**, **multiomics integration**, **machine learning**, and **explainable artificial intelligence**. By combining high-resolution sequencing data with advanced computational approaches, his work aims to uncover the mechanistic links between diet, microbial communities, and health outcomes.
